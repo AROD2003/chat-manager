@@ -1,0 +1,11 @@
+main: arod.chatmanager.Core
+name: ChatManager
+version: 0.1
+description: Manage chat easily in minecraft.
+commands:
+    mutechat:
+        description: Mute the chat
+    broadcast:
+        description: Broadcast a message to the entire server
+    staffchat:
+        description: Chat with fellow members of your staff team
